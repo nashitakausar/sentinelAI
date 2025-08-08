@@ -21,6 +21,7 @@ Features:
 ✅ **Multi-Tab Interface** – Main dashboard, About section, and IP checker tabs.
 
 Tech Stack
+
 Python – Data parsing, ML model training, API integration
 
 Scikit-learn – Machine learning model
@@ -36,6 +37,7 @@ AbuseIPDB API – Live IP reputation checks
 Joblib – Model persistence
 
 Matplotlib – Data visualization
+
 
 
 
