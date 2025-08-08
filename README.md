@@ -4,20 +4,21 @@
 
 SentinelAI is a real-time cyber threat detection dashboard that analyzes server log files, detects malicious login attempts using machine learning, and verifies IP addresses against live global threat intelligence data. Designed with a sleek, corporate-grade UI for real-world usability.
 
-Features
-✅ Machine Learning Threat Detection – Classifies login attempts as safe or malicious from auth.log files.
+Features:
 
-✅ Live IP Reputation Checker – Integrated with the AbuseIPDB API for real-time malicious IP lookups.
+✅ **Machine Learning Threat Detection** – Classifies login attempts as safe or malicious from auth.log files.
 
-✅ Interactive Dashboard – Built in Streamlit with custom HTML/CSS styling for a sleek, modern design.
+✅ **Live IP Reputation Checker** – Integrated with the AbuseIPDB API for real-time malicious IP lookups.
 
-✅ Log File Upload & Parsing – Upload .log files and instantly view threat classifications.
+✅ **Interactive Dashboard** – Built in Streamlit with custom HTML/CSS styling for a sleek, modern design.
 
-✅ Real-Time Charts & Metrics – Visual breakdown of threats vs. safe logins.
+✅ **Log File Upload & Parsing** – Upload .log files and instantly view threat classifications.
 
-✅ Secure API Key Management – Streamlit Secrets to protect credentials in deployment.
+✅ **Real-Time Charts & Metrics** – Visual breakdown of threats vs. safe logins.
 
-✅ Multi-Tab Interface – Main dashboard, About section, and IP checker tabs.
+✅ **Secure API Key Management** – Streamlit Secrets to protect credentials in deployment.
+
+✅ **Multi-Tab Interface** – Main dashboard, About section, and IP checker tabs.
 
 Tech Stack
 Python – Data parsing, ML model training, API integration
@@ -35,5 +36,6 @@ AbuseIPDB API – Live IP reputation checks
 Joblib – Model persistence
 
 Matplotlib – Data visualization
+
 
 
