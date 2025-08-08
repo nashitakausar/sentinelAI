@@ -20,6 +20,8 @@ Features:
 
 ✅ **Multi-Tab Interface** – Main dashboard, About section, and IP checker tabs.
 
+_________________________________________________________________________________
+
 Tech Stack:
 
 **Python** – Data parsing, ML model training, API integration
@@ -38,6 +40,8 @@ Tech Stack:
 
 **Matplotlib** – Data visualization
 
+_________________________________________________________________________________
+
 Usage:
 
 1. Upload your auth.log file.
@@ -55,6 +59,7 @@ Author!
 👤 **Nashita Kausar**
 
 LinkedIn: (https://www.linkedin.com/in/nashitakausar/)
+
 
 
 
