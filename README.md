@@ -38,6 +38,21 @@ Tech Stack:
 
 **Matplotlib** – Data visualization
 
+Usage:
+
+1. Upload your auth.log file.
+
+2. View predictions – safe vs. malicious logins.
+
+3. Check IPs – use the IP checker for detailed reputation analysis.
+
+4. Explore threat trends with real-time charts & metrics.
+
+Author!
+👤 **Nashita Kausar**
+LinkedIn: (https://www.linkedin.com/in/nashitakausar/)
+
+
 
 
 
