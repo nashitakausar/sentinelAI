@@ -22,21 +22,22 @@ Features:
 
 Tech Stack
 
-Python – Data parsing, ML model training, API integration
+**Python** – Data parsing, ML model training, API integration
 
-Scikit-learn – Machine learning model
+**Scikit-learn** – Machine learning model
 
-Pandas – Data manipulation
+**Pandas** – Data manipulation
 
-Streamlit – Interactive web app
+**Streamlit** – Interactive web app
 
-HTML/CSS – Custom UI styling
+**HTML/CSS** – Custom UI styling
 
-AbuseIPDB API – Live IP reputation checks
+**AbuseIPDB API** – Live IP reputation checks
 
-Joblib – Model persistence
+**Joblib** – Model persistence
 
-Matplotlib – Data visualization
+**Matplotlib** – Data visualization
+
 
 
 
