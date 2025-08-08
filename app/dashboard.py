@@ -155,7 +155,7 @@ with col2:
         st.bar_chart(df['Threat'].value_counts())
     else:
         st.info("Awaiting file upload to display metrics.")
-# ========== 5. Footer / Company Logos (Optional) ========== #
+#footer
 st.markdown("""
 <div style="text-align: center;">
     <p style="font-size:14px;">Powered by Streamlit & AI | Created by Nashita Kausar 🧠</p>
@@ -211,7 +211,7 @@ with tab3:
     </div>
     """, unsafe_allow_html=True)
 
-    # Load and display profile image
+    # load + display profile image
     image_path = os.path.join(os.path.dirname(__file__), 'assets', 'nashitaimg.png')
     profile_image = Image.open(image_path)
 
