@@ -20,7 +20,7 @@ Features:
 
 ✅ **Multi-Tab Interface** – Main dashboard, About section, and IP checker tabs.
 
-Tech Stack
+Tech Stack:
 
 **Python** – Data parsing, ML model training, API integration
 
@@ -37,6 +37,7 @@ Tech Stack
 **Joblib** – Model persistence
 
 **Matplotlib** – Data visualization
+
 
 
 
