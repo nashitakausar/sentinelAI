@@ -4,6 +4,8 @@
 
 SentinelAI is a real-time cyber threat detection dashboard that analyzes server log files, detects malicious login attempts using machine learning, and verifies IP addresses against live global threat intelligence data. Designed with a sleek, corporate-grade UI for real-world usability.
 
+**Live app:** https://sentinelai-nk.streamlit.app/
+
 Features:
 
 ✅ **Machine Learning Threat Detection** – Classifies login attempts as safe or malicious from auth.log files.
@@ -59,6 +61,7 @@ Author!
 👤 **Nashita Kausar**
 
 LinkedIn: (https://www.linkedin.com/in/nashitakausar/)
+
 
 
 
