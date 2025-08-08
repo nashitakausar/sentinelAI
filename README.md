@@ -47,10 +47,15 @@ Usage:
 3. Check IPs – use the IP checker for detailed reputation analysis.
 
 4. Explore threat trends with real-time charts & metrics.
+   
+_________________________________________________________________________________
 
 Author!
+
 👤 **Nashita Kausar**
+
 LinkedIn: (https://www.linkedin.com/in/nashitakausar/)
+
 
 
 
