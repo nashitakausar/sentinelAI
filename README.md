@@ -1,4 +1,4 @@
-                                                                      SentinelAI – AI-Powered Cyber Threat Detection Dashboard 🚨
+**SentinelAI – AI-Powered Cyber Threat Detection Dashboard 🚨**
 <img width="2142" height="1074" alt="image" src="https://github.com/user-attachments/assets/315be4a9-ec53-4ba3-889c-04d787820521" />
 
 
@@ -35,4 +35,5 @@ AbuseIPDB API – Live IP reputation checks
 Joblib – Model persistence
 
 Matplotlib – Data visualization
+
 
